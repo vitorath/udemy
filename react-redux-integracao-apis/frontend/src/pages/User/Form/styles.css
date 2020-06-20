@@ -1,0 +1,15 @@
+.UserForm {
+  margin: 20px auto;
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+}
+
+.UserForm input,
+button {
+  width: 100%;
+}
+
+.UserForm label {
+  margin-bottom: 15px;
+}

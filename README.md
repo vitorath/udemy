@@ -7,3 +7,5 @@
 ### [React Fundamentals](https://www.udemy.com/course/react-fundamentals/) - **Author: Edvinas Daugirdas**
 
 ### [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) - **Author: Nataniel Paiva**
+
+### [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - **Author: Diego Mariano, Ph.D.**

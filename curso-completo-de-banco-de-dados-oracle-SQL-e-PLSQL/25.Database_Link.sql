@@ -1,0 +1,6 @@
+CREATE DATABASE LINK cursoLink
+CONNECT TO vitor IDENTIFIED BY "123"
+USING 'xe';
+
+SELECT * FROM aluno@cursoLink;
+

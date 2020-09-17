@@ -9,3 +9,5 @@
 ### [React, Redux e integração de APIs](https://www.udemy.com/course/react-redux-e-integracao-de-apis/) - **Author: Nataniel Paiva**
 
 ### [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - **Author: Diego Mariano, Ph.D.**
+
+### [Curso Completo de Banco de Dados Oracle SQL e PL/SQL](https://www.udemy.com/course/curso-completo-de-oracle/) - **Author: Márcio Konrath**
